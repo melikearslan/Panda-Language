@@ -1,0 +1,14 @@
+go
+readonly graduated == false;
+# This is a test program #
+readonly classYear == 3;
+studentName == "Melike Arslan";
+studentGroup == 'A';
+if( !melikeStudiesForExam & melike_Is_Sick) { return failExam; }
+ifn't{
+	out == !failExam | getHealthReport;
+	condition == unknown;
+}
+predicate isPracticing(question1, 2question) { return false; }
+$isPracticing(1, 2);
+finish
